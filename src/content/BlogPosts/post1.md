@@ -2,7 +2,7 @@
 title: "Does Taylor Swift sound like AI or does AI sound like Taylor Swift?"
 date: "2026-9-30"
 excerpt: "How AI training data, copyright lawsuits, and licensing deals are reshaping the economics of music"
-tags: ["AI", "Intellectual Property"]
+tags: ["ai", "copyright", "intellectual-property"]
 ---
 
 # Does Taylor Swift Sound Like AI, or Does AI Sound Like Taylor Swift?
